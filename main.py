@@ -1,5 +1,4 @@
 # some tests on tomatoes
-
 import cv2
 import numpy as np
 
